@@ -91,3 +91,17 @@ Archivematica for Absolute Beginners
     * choose between AIP storages
 * customize default decision inputs
 * custom processing configurations
+
+### Exercises
+See [the pdf](/Archivematica-exercises.pdf).
+
+### AtoM
+* access to memory
+* Archivematica was the storage behind AtoM first
+* now more separate
+* multi-lingual support
+* multi-repository - many repositories/archives using one single AtoM instance
+    * small organisations can use it as well without deploying their own instance
+    * Canada - provincial portals
+* AtoM-camp in May in Cambridge
+* idea for EASY-webui: popups for input fields in UI with explanation, according to standards
