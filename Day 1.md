@@ -4,6 +4,11 @@ Day 1
 Archivematica for Absolute Beginners
 ------------------------------------
 
+### Slides
+* [Opening and Archivematica introduction](slides/Opening%20slides%20and%20Archivematica%20introduction.pdf)
+* [Archivematica - why what who how](slides/Archivematica%20-%20why%20what%20who%20how.pdf)
+* [Intro to AtoM](slides/Intro%20to%20AtoM.pdf)
+
 ### History of the project
 * early 2000 started, not many tools around
 * 2005 AtoM - library system
