@@ -1,13 +1,10 @@
-Archivematica Camp York - April 2017
-====================================
-
-
 Day 1
------
+=====
 
-### Archivematica for Absolute Beginners
+Archivematica for Absolute Beginners
+------------------------------------
 
-#### History of the project
+### History of the project
 * early 2000 started, not many tools around
 * 2005 AtoM - library system
 * 2009 archiving/preservation/repository backend
