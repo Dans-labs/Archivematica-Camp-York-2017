@@ -88,7 +88,6 @@ Technical architecture overview
 -------------------------------
 
 [Slides](slides/Technical%20architecture%20overview.pdf)
-[Slides](http://bit.ly/am_arch)
 
 * archivematica accepts files
 * flow
@@ -163,9 +162,7 @@ Storage service management
 Validation micro-service developments
 -------------------------------------
 
-[Slides](slides/Validation%20micro-service%20developments.pdf)
-[MediaConch](https://mediaarea.net/MediaConch/)
-[MediaConchOnline checker](https://mediaarea.net/MediaConchOnline/checker)
+[MediaConch](https://mediaarea.net/MediaConch/) and [MediaConchOnline checker](https://mediaarea.net/MediaConchOnline/checker)
 
 * MediaConch used for validating video files.
 * making sure the files are valid
