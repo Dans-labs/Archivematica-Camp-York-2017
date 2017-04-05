@@ -103,7 +103,7 @@ See [the pdf](/Archivematica-exercises.pdf).
 ### AtoM
 * access to memory
 * Archivematica was the storage behind AtoM first
-* now more separate
+* now more separate; AtoM is the user-frontend of the whole system
 * multi-lingual support
 * multi-repository - many repositories/archives using one single AtoM instance
     * small organisations can use it as well without deploying their own instance
