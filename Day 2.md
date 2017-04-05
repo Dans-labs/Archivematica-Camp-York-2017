@@ -67,7 +67,7 @@ PREMIS and METS
         * info about the METS file (who created it and when, last modified (for versioning))
     * descriptive metadata
         * container for dublincore metadata
-        * >1 of these for versioning and such
+        * more than 1 of these for versioning and such
     * administrative metadata
         * technical metadata container with PREMIS object
         * rights metadata container with PREMIS object
