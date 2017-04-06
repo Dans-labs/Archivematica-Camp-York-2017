@@ -11,8 +11,8 @@ Notes and slides from the Archivematica Camp in York (April 2017)
     * [Storage Service management](Day%202.md#storage-service-management)
     * [Validation micro-service developments](Day%202.md#validation-micro-service-developments)
 * [Day 3](Day%203.md)
-    * Deployment practices for development and production
-    * Automation tools
-    * Customizing the FPR
-    * Archivematica roadmap and upcoming developments
-    * Project community and governance talk
+    * [Deployment practices for development and production](Day%203.md#deployment-practices-for-development-and-production)
+    * [Automation tools](Day%203.md#automation-tools)
+    * [Customizing the FPR](Day%203.md#customizing-the-fpr)
+    * [Archivematica roadmap and upcoming developments](Day%203.md#archivematica-roadmap-and-upcoming-developments)
+    * [Project community and governance talk](Day%203.md#project-community-and-governance-talk)
