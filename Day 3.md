@@ -90,9 +90,18 @@ Customizing the FPR
 
 Archivematica roadmap and upcoming developments
 -----------------------------------------------
-TODO
+* [Roadmap](https://wiki.archivematica.org/Development_roadmap:_Archivematica)
+* [Improvements](https://wiki.archivematica.org/Improvements)
 
 
 Project community and governance talk
 -------------------------------------
-TODO
+* business model
+    * software is open-source and free
+    * make money via extra services
+    * want to make the software self-sustaining
+* contribution always welcome
+* discussion on how collaborations and finance can be done better: open for suggestions
+* UK Archivematica Group - meetings 2/3 times per year
+    * share workflows
+    * share experience
