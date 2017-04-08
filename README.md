@@ -1,6 +1,8 @@
 # Archivematica Camp York 2017
 Notes and slides from the Archivematica Camp in York (April 2017)
 
+[Google Drive folder](https://drive.google.com/drive/u/0/folders/0B5OYDF_LHu4RekdzVTVQVWo4U0U)
+
 * [Day 1](Day%201.md)
     * [Archivematica for Absolute Beginners](Day%201.md#archivematica-for-Absolute-Beginners)
     * [Archivematica and AtoM](Day%201.md#atom)
