@@ -58,7 +58,7 @@ Metadata deep dive
 PREMIS and METS
 
 * mets file stores metadata
-* in an AIP bag it is is the `data/` folder
+* in an AIP bag it is stored in the `data/` folder
 * PREMIS (preservasion metadata implementation strategies) standard for metadata about objects
 * PREMIS events: audit trail
 * relations between objects
@@ -126,7 +126,7 @@ Technical architecture overview
         * AtoM
         * storage services
         * METS validator **<-- a variant might be interesting for EASY**
-        * <others>
+        * [others]
     * Artefactual Labs
         * new/R&D things
         * acceptance tests (selenium tests with Gherkin files)
