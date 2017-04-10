@@ -2,7 +2,7 @@
 Notes and slides from the Archivematica Camp in York (April 2017)
 
 * [Day 1](Day%201.md)
-    * [Archivematica for Absolute Beginners](Day%201.md#archivematica-for-Absolute-Beginners)
+    * [Archivematica for Absolute Beginners](Day%201.md#archivematica-for-absolute-beginners)
     * [Archivematica and AtoM](Day%201.md#atom)
 * [Day 2](Day%202.md)
     * [Workflow and deployment tours](Day%202.md#workflow-and-deployment-tours)
